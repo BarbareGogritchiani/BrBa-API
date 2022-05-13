@@ -1,1 +1,3 @@
-# BrBa-API
+https://breakingbadapi.com/documentation - სერიალების სერიალ  ,,Breaking Bad" - ის API - დან წამოვიღე მისი პერსონაჟების ინფორმაცია (სახელი , პერსონაჟის სახელი , დაბადების თარიღი , ID-ები და სერიალში მათი ნიქნეიმები ) . პირველ რიგში გაგზავნილია request და შემდეგ ვპრინტავთ სერვერიდან მიღებულ პასუხს რამდენიმე ატრიბუტის საშუალებით . ამ ინფორმაციას ვინახავთ Json ფაილში , ვქმნით sql ცხრილს (table) და ეტაპობრივად , შესაბამისი სახელის საშუალებით ვამატებთ პერსონაჟების ინფორმაციას ამ ცხრილში .
+
+From the ,,Breaking Bad" API , I took basic information about its characters(name , character name , birthday , character id and nickname) . Firstly I sent a request to this API and with the several attributes I print response . Data about characters is saved in a Json file , then I create SQL table and in this table ,with the variable ''name" , we add appropriate information about this character. 
